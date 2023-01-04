@@ -1,0 +1,25 @@
+.fa-plus-circle,
+.fa-minus-circle{
+    cursor: pointer;
+    display: inline-block;
+}
+
+.fa-plus-circle{
+    margin-left: 5px;
+}
+
+.fa-minus-circle{
+    margin-right: 5px;
+}
+
+.table-responsive-sm {
+    max-height: 70vh;
+    overflow: auto;
+}
+
+.fa-shopping-basket{
+    align-items: center;
+    font-size: 300px;
+    padding-top: 50px;
+    color: rgba(154, 153, 153, 0.256);
+}

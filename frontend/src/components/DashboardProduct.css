@@ -1,0 +1,17 @@
+.dashboard-product-preview{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.edit-btn {
+    margin-top: 7px;
+    background-color: gold;
+    border-color: gold;
+    color:black
+}
+
+.edit-btn:hover{
+    background-color: yellow;
+    border-color: yellow;
+}

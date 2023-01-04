@@ -1,0 +1,41 @@
+.login__image--container {
+
+    background-image: url('D:\mern_ecom\frontend\src\images\login.jpg');
+    height: 68vh;
+    background-size: cover;
+    margin-top: 7%;
+
+}
+
+.login__form--container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.mb-3 {
+    padding: 10px;
+}
+
+.login-btn {
+    background-color: rgb(7, 7, 96);
+    transition: 1s;
+    border-color: rgb(7, 7, 96);
+}
+.login-btn:hover{
+    background-color: rgb(70, 70, 243);
+    border-color: rgb(70, 70, 243);
+}
+
+@media screen and (max-width: 756px) {
+    .login__image--container{
+        display: none;
+    }
+    .login__form--container{
+        background-color: rgba(241, 239, 239, 0.934);
+
+    }
+}
+

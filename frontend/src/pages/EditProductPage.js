@@ -103,7 +103,7 @@ function EditProductPage() {
                           </option>
                           <option value="clothes">Clothes</option>
                           <option value="accessories">Accessories</option>
-                          <option value="footwear">Footware</option>
+                          <option value="footwear">Footwear</option>
                         </Form.Select>
                     </Form.Group>
 

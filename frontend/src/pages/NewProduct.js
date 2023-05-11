@@ -89,7 +89,7 @@ function NewProduct() {
                           </option>
                           <option value="clothes">Clothes</option>
                           <option value="accessories">Accessories</option>
-                          <option value="footware">Footware</option>
+                          <option value="footwear">Footwear</option>
                         </Form.Select>
                     </Form.Group>
 
